@@ -2,7 +2,7 @@
 
 ### Usage
 ```bash
-git clone https://github.com/Erik-Serbicki/neovim-config ~/.config/nvim
+git clone https://github.com/Erik-Serbicki/neovim-config.git ~/.config/nvim
 ```
 
 Uses Lazy, so make sure to run it and update and sync packages.
